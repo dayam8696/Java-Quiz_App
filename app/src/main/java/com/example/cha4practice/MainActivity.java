@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
                     if (answers[index]==false){
                         score++;
 
+
                     }
                     index++;
                     if(index<=questions.length-1){
